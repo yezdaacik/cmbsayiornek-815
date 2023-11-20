@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\obj\Debug\cmb for örnek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\obj\Debug\cmb for örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\obj\Debug\cmb_for_örnek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\obj\Debug\cmb_for_örnek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\obj\Debug\cmb for örnek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\obj\Debug\cmb for örnek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\bin\Debug\cmb for örnek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\bin\Debug\cmb for örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\bin\Debug\cmb for örnek.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\obj\Debug\cmb for örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\cmb for örnek\cmb for örnek\obj\Debug\cmb for örnek.pdb
